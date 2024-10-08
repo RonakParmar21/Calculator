@@ -1,0 +1,90 @@
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.staticwebassets.runtime.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.exe
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.deps.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.runtimeconfig.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.pdb
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfoInputs.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfo.cs
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.csproj.CoreCompileInputs.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cs
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.CalculatorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CalculatorWebApp.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CalculatorWebApp.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CalculatorWebApp.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\bundle\CalculatorWebApp.styles.css
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\CalculatorWebApp.bundle.scp.css
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\refint\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.pdb
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.genruntimeconfig.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\ref\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.staticwebassets.runtime.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.exe
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.deps.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.runtimeconfig.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.pdb
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfoInputs.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfo.cs
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.csproj.CoreCompileInputs.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cs
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.CalculatorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CalculatorWebApp.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CalculatorWebApp.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CalculatorWebApp.props
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\bundle\CalculatorWebApp.styles.css
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\CalculatorWebApp.bundle.scp.css
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\refint\CalculatorWebApp.dll
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.pdb
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.genruntimeconfig.cache
+C:\Ronak\ASP.NET CORE\02 Task 2 Calculator\Calculator\version 5\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\ref\CalculatorWebApp.dll
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.Development.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.staticwebassets.runtime.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.exe
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.deps.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.runtimeconfig.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.dll
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.pdb
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfoInputs.cache
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfo.cs
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.csproj.CoreCompileInputs.cache
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cache
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cs
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.CalculatorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CalculatorWebApp.props
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CalculatorWebApp.props
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CalculatorWebApp.props
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\bundle\CalculatorWebApp.styles.css
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\CalculatorWebApp.bundle.scp.css
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.dll
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\refint\CalculatorWebApp.dll
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.pdb
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.genruntimeconfig.cache
+E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\ref\CalculatorWebApp.dll

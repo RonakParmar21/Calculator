@@ -1,0 +1,95 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    
+</head>
+<body>
+    <section>
+        <div class="containerDiv">
+            <div class="calculator">
+                <div class="display">
+                    <div class="display-1">@ViewBag.DisplayHistory</div>
+                    <div class="display-2">@ViewBag.DisplayResult</div>
+                </div>
+                <div class="allBtn">
+                    <table>
+                        <tr>
+                            <td>
+                                <button class="button number" id="sevenNo" data-action="HandleNumber" data-value="7"><i class="fa-solid fa-7"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number" id="eightNo" data-action="HandleNumber" data-value="8"><i class="fa-solid fa-8"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number" id="nineNo" data-action="HandleNumber" data-value="9"><i class="fa-solid fa-9"></i></button>
+                            </td>
+                            <td>
+                                <button class="button operation" id="divideSign" data-action="HandleOperation" data-value="/"><i class="fa-solid fa-divide"></i></button>
+                            </td>
+                            <td>
+                                <button class="button last-entity-clear" id="clearLastBtn" data-action="HandleClearLast"><i class="fa-solid fa-delete-left"></i></button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="button number" id="fourNo" data-action="HandleNumber" data-value="4"><i class="fa-solid fa-4"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number" id="fiveNo" data-action="HandleNumber" data-value="5"><i class="fa-solid fa-5"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number" id="sixNo" data-action="HandleNumber" data-value="6"><i class="fa-solid fa-6"></i></button>
+                            </td>
+                            <td>
+                                <button class="button operation" id="xMark" data-action="HandleOperation" data-value="*"><i class="fa-solid fa-xmark"></i></button>
+                            </td>
+                            <td>
+                                <button class="button all-clear" id="cAll" data-action="HandleClearAll"><i class="fa-solid fa-c"></i></button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="button number" id="oneNo" data-action="HandleNumber" data-value="1"><i class="fa-solid fa-1"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number" id="twoNo" data-action="HandleNumber" data-value="2"><i class="fa-solid fa-2"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number" id="threeNo" data-action="HandleNumber" data-value="3"><i class="fa-solid fa-3"></i></button>
+                            </td>
+                            <td>
+                                <button class="button operation" id="minusSign" data-action="HandleOperation" data-value="-"><i class="fa-solid fa-minus"></i></button>
+                            </td>
+                            <td rowspan="2">
+                                <button class="button equal btnEqual" id="equalBtn" data-action="HandleEqual"><i class="fa-solid fa-equals"></i></button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <button class="button number btnZero" id="zeroNo" data-action="HandleNumber" data-value="0"><i class="fa-solid fa-0"></i></button>
+                            </td>
+                            <td>
+                                <button class="button number btnDot" id="dotNo" data-action="HandleNumber" data-value="."><i class="fa-solid fa-circle"></i></button>
+                            </td>
+                            <td>
+
+                                <button class="button number" id="plusBtn" data-action="HandleOperation" data-value="+">
+                                    <i class="fa-solid fa-plus"></i>
+                                </button>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="~/js/customjs/calculator.js"></script>
+</body>
+</html>
