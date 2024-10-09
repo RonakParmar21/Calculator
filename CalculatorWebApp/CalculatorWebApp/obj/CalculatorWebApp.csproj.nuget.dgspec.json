@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj": {}
+    "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj": {}
   },
   "projects": {
-    "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj": {
+    "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj",
+        "projectUniqueName": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj",
         "projectName": "CalculatorWebApp",
-        "projectPath": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj",
+        "projectPath": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\CalculatorWebApp.csproj",
         "packagesPath": "C:\\Users\\parma\\.nuget\\packages\\",
-        "outputPath": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\obj\\",
+        "outputPath": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

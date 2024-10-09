@@ -88,3 +88,34 @@ E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Ca
 E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.pdb
 E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.genruntimeconfig.cache
 E:\company work\asp.net core\task 1 to 3 with data\02 Task 2 Calculator\Final Calculator\CalculatorWebApp v17\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\ref\CalculatorWebApp.dll
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.Development.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\appsettings.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.staticwebassets.runtime.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.exe
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.deps.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.runtimeconfig.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.dll
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\bin\Debug\net8.0\CalculatorWebApp.pdb
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfoInputs.cache
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.AssemblyInfo.cs
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.csproj.CoreCompileInputs.cache
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cache
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.RazorAssemblyInfo.cs
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.sourcelink.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.CalculatorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.CalculatorWebApp.props
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CalculatorWebApp.props
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CalculatorWebApp.props
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\bundle\CalculatorWebApp.styles.css
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\CalculatorWebApp.bundle.scp.css
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.dll
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\refint\CalculatorWebApp.dll
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.pdb
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\CalculatorWebApp.genruntimeconfig.cache
+E:\01 Repositories\Calculator In ASP.NET Core\Calculator\CalculatorWebApp\CalculatorWebApp\obj\Debug\net8.0\ref\CalculatorWebApp.dll

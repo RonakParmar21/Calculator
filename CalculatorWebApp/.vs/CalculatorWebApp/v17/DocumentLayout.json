@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\",
+  "WorkspaceRootPath": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|e:\\company work\\asp.net core\\task 1 to 3 with data\\02 task 2 calculator\\final calculator\\calculatorwebapp v17\\calculatorwebapp\\calculatorwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|e:\\01 repositories\\calculator in asp.net core\\calculator\\calculatorwebapp\\calculatorwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|solutionrelative:calculatorwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|e:\\company work\\asp.net core\\task 1 to 3 with data\\02 task 2 calculator\\final calculator\\calculatorwebapp v17\\calculatorwebapp\\calculatorwebapp\\wwwroot\\js\\customjs\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|solutionrelative:calculatorwebapp\\wwwroot\\js\\customjs\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|e:\\01 repositories\\calculator in asp.net core\\calculator\\calculatorwebapp\\calculatorwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|solutionrelative:calculatorwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|e:\\company work\\asp.net core\\task 1 to 3 with data\\02 task 2 calculator\\final calculator\\calculatorwebapp v17\\calculatorwebapp\\calculatorwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|solutionrelative:calculatorwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|e:\\01 repositories\\calculator in asp.net core\\calculator\\calculatorwebapp\\calculatorwebapp\\wwwroot\\js\\customjs\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8BD4D29B-19E9-446B-9ADA-A4992F830154}|CalculatorWebApp\\CalculatorWebApp.csproj|solutionrelative:calculatorwebapp\\wwwroot\\js\\customjs\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,25 +34,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "calculator.js",
-              "DocumentMoniker": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\wwwroot\\js\\customJs\\calculator.js",
+              "DocumentMoniker": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\wwwroot\\js\\customJs\\calculator.js",
               "RelativeDocumentMoniker": "CalculatorWebApp\\wwwroot\\js\\customJs\\calculator.js",
-              "ToolTip": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\wwwroot\\js\\customJs\\calculator.js",
+              "ToolTip": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\wwwroot\\js\\customJs\\calculator.js",
               "RelativeToolTip": "CalculatorWebApp\\wwwroot\\js\\customJs\\calculator.js",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBwAAAAlAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-29T08:06:09.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CalculatorWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CalculatorWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-25T04:09:52.874Z"
             },
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CalculatorWebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\company work\\asp.net core\\task 1 to 3 with data\\02 Task 2 Calculator\\Final Calculator\\CalculatorWebApp v17\\CalculatorWebApp\\CalculatorWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\01 Repositories\\Calculator In ASP.NET Core\\Calculator\\CalculatorWebApp\\CalculatorWebApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CalculatorWebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAALwBAAAAAAAAAAAwwM0BAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAcwKAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T04:09:48.389Z",
               "EditorCaption": ""
